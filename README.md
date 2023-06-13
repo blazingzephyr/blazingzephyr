@@ -97,10 +97,13 @@ Recently I have finished a Notion x Discord integration:
 
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=bedlam&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
 
-At the moment I am busy with exams and rethinking my plans, but until recently I have been planning to study multimedia programming using **Vulkan** and machine learning using **ML.NET**. In case I end up continuing that, I would post the updates and demos here:<br>
+Currently I am remaking it on C#:
 
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=multimedia-demo&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=machine-learning-demo&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/machine-learning-demo)<br><br>
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=bedlam-cs&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
+
+Also, I have moved all of my unfinished projects from their personal repositories to a shared one:
+
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=unfinished-projects&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
 
 <a name="Contact-Me">
 <img src="http://readme-typing-svg.herokuapp.com?font=Marck+Script&size=35&pause=1000&color=B81FCB&vCenter=true&repeat=false&width=500&height=50&lines=💬How+To+Contact+Me💬">
@@ -111,7 +114,7 @@ At the moment I am busy with exams and rethinking my plans, but until recently I
 There are several ways one could contact me:
 
 * **blazingzephyr#4504** on **Discord**. I am available most of the time;
-* Alternatively, you could **[open an issue in my ask-me-anything repository](https://github.com/blazingzephyr/ama/issues/new?assignees=blazingzephyr&labels=question&milestone=1&title=Question&body=Ask+me+a+question+or+make+a+proposal.+Select+the+labels+and+assign+yourself.)**;
+* Alternatively, you could **[open an issue in this repository](https://github.com/blazingzephyr/blazingzephyr/issues/new?assignees=blazingzephyr&labels=question&milestone=1&title=Question&body=Ask+me+a+question+or+make+a+proposal.+Select+the+labels+and+assign+yourself.)**;
 * And lastly, my email address is **blazingzephyrofficial@gmail.com**.
 
 I might be busy with schoolwork or daily routine, but I always try to respond if I have time.<br><br>
@@ -124,5 +127,5 @@ I might be busy with schoolwork or daily routine, but I always try to respond if
 
 [![Avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119159668?v=4&h=96&w=96&fit=cover&mask=circle&maxage=7d)](https://github.com/blazingzephyr)<br>
 Provided by [@blazingzephyr](https://github.com/blazingzephyr)<br>
-Updated: June 6, 2023. 22:45 UTC+7︱MSK+4.
+Updated: June 14, 2023.
 [![GitHub](https://images.weserv.nl/?url=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&h=15&w=15&fit=none&mask=circle&maxage=7d)](https://github.com/blazingzephyr/blazingzephyr/commits/develop)

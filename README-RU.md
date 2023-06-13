@@ -97,10 +97,13 @@
 
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=bedlam&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
 
-В данный момент я занят экзаменами и обдумыванием планов, но до недавних пор я планировал изучать мультимедиа программирование, используя **Vulkan**, и машинное обучение используя **ML.NET**. Если я продолжу, то буду постить обновления здесь:<br>
+На данный момент я переделываю её на C#:
 
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=multimedia-demo&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=machine-learning-demo&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/machine-learning-demo)<br><br>
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=bedlam-cs&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
+
+Также я переместил все незаконченные проекты из отдельных репозиториев в общий:
+
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=blazingzephyr&repo=unfinished-projects&show_owner=false&show_icons=true&bg_color=0C0800&border_color=FCAD21&title_color=FCAD21&icon_color=FCAD21&text_color=FFE7CC)](https://github.com/blazingzephyr/multimedia-demo)
 
 <a name="Contact-Me">
 <img src="http://readme-typing-svg.herokuapp.com?font=Marck+Script&size=35&pause=1000&color=B81FCB&vCenter=true&repeat=false&width=500&height=50&lines=💬Как+Со+Мной+Связаться💬">
@@ -111,7 +114,7 @@
 Есть несколько способов связаться со мной:
 
 * **blazingzephyr#4504** в **Дискорде**. Я доступен большую часть времени;
-* Также, вы могли бы **[открыть проблему в моём репозитории для вопросов](https://github.com/blazingzephyr/ama/issues/new?assignees=blazingzephyr&labels=question&milestone=1&title=Вопрос&body=Задайте+вопрос+или+сделайте+предложение.+Выберите+теги+и+назначьте+себя.)**;
+* Также, вы могли бы **[открыть проблему в этом репозитории](https://github.com/blazingzephyr/blazingzephyr/issues/new?assignees=blazingzephyr&labels=question&milestone=1&title=Вопрос&body=Задайте+вопрос+или+сделайте+предложение.+Выберите+теги+и+назначьте+себя.)**;
 * Наконец, мой email-адресс **blazingzephyrofficial@gmail.com**.
 
 Я могу быть занят учёбой или делами по дому, но я всегда стараюсь отвечать, когда у меня есть время.<br><br>
@@ -124,5 +127,5 @@
 
 [![Avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119159668?v=4&h=96&w=96&fit=cover&mask=circle&maxage=7d)](https://github.com/blazingzephyr)<br>
 Создано [@blazingzephyr](https://github.com/blazingzephyr)<br>
-Обновлено: Июнь 6, 2023. 22:45 UTC+7︱МСК+4.
+Обновлено: Июнь 14, 2023.
 [![GitHub](https://images.weserv.nl/?url=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&h=15&w=15&fit=none&mask=circle&maxage=7d)](https://github.com/blazingzephyr/blazingzephyr/commits/develop)
